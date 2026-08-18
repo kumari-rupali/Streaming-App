@@ -1,8 +1,57 @@
-# React + Vite
+# ▶️ QTube — Streaming App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive video-streaming style web application inspired by modern platforms such as YouTube. Built as a React frontend project to demonstrate reusable components, content discovery UI and responsive layouts.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://qtube-streaming-app.vercel.app
+
+## 💻 Source Code
+
+https://github.com/kumari-rupali/Streaming-App
+
+## ✨ Features
+
+- Video/content discovery interface
+- Responsive streaming-style layout
+- Reusable React components
+- Search/content browsing UI
+- Responsive desktop and mobile experience
+- Production deployment on Vercel
+
+## 🧰 Tech Stack
+
+- React
+- JavaScript
+- CSS
+- API integration
+- Vercel
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/kumari-rupali/Streaming-App.git
+cd Streaming-App
+npm install
+npm run dev
+```
+
+## 🏗️ Production Build
+
+```bash
+npm run build
+```
+
+## ☁️ Deployment
+
+Live deployment: https://qtube-streaming-app.vercel.app
+
+## 🎯 Portfolio Value
+
+This project demonstrates component-driven React development, API-oriented frontend architecture, responsive UI implementation and the ability to take a frontend application from development to production deployment.
+
+## 👩‍💻 Author
+
+**Kumari Rupali** — Frontend Developer
+
+GitHub: https://github.com/kumari-rupali
